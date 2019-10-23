@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>ENTERPRISE</title>
+	<meta charset="utf-8">
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+	<div class="contall border">
+		<header>
+			<div class="contheader">
+				<div class="cintmen1">
+					<h1 class="textcorowiht">ENTERPRISE INS.</h1>
+				</div>
+				<div class="cintmenu2 textcolor1" >
+					<div class="contheader">Home</div>
+					<div class="contheader">About</div>
+					<div class="contheader">Portfolio</div>
+					<div class="contheader">Services</div>
+					<div class="contheader">blog</div>
+					<div class="contheader">Contact</div>
+				</div>
+			</div>
+		</header>
+		<main>
+			<div class="main1">
+				<div class="text">
+					<h1 class="textcorowiht">HELLO!<br></h1>
+					<h2 class="textcorowiht">YOU ARE HERE.<br></h2>
+					<p class="textcolor1" >aaaaaalllllllaa<br>
+					alaalaaaaaaaaaaaaaaaaaaa<br>
+					laasasasasabvbvbvbvbvbvbvbvbv<br>
+					gshdhsrthrhsrhadftvedersvrvvgs<br>
+					</p>
+				</div>
+				<div class="main1_1"></div>
+			</div>
+			<div>
+				<div class="main2">
+					<div>
+							<div><h3><img class="icon" src="img/closk.svg"> Strict Deadlines</h3></div>
+							<div><p>hgjhfdfgjtjfdjtyjndjtyjtsrhj<br>
+							vvwvwervwcvzdafvacaecfacaceacac<br>
+							sfvwracqcqecqcqefqfqafqfqefqfqefqe<br>
+							</p></div>
+							<a href="#"><b>Read more...</b></a>
+						
+					</div>
+					<div>	
+							<div>
+							<h3><img class="icon" src="img/calendar.svg">Beat pricing</h3>
+							</div>
+							<div>
+								<p>hgjhfdfgjtjfdjtyjndjtyjtsrhj<br>
+								vvwvwervwcvzdafvacaecfacaceacac<br>
+								sfvwracqcqecqcqefqfqafqfqefqfqefqe<br>
+								</p>
+							</div>
+							<a href="#"><b>Read more...</b></a>
+						
+					</div>
+					<div>	<div>
+								<h3><img class="icon" src="img/diograms.svg">High Quality</h3>
+							</div>
+							<div>
+								<p>hgjhfdfgjtjfdjtyjndjtyjtsrhj<br>
+								vvwvwervwcvzdafvacaecfacaceacac<br>
+								sfvwracqcqecqcqefqfqafqfqefqfqefqe<br>
+								</p>
+							</div>
+							<a href="#"><b>Read more...</b></a>
+						
+					</div>
+				</div>
+				<div class="main2">
+					<div class="z1">
+							<div ><img class="main_11" src="img/forest_1.jpg"></div>
+							<div>
+								<!--<img class="heightmax" src="img/forest.jpg">-->
+								<h3>Recent Work 1</h3>
+								<p>hgjhfdfgjtjfdjtyjndjtyjtsrhj<br>
+								vvwvwervwcvzdafvacaecfacaceacac<br>
+								sfvwracqcqecqcqefqfqafqfqefqfqefqe<br>
+								</p>
+								<a href="#"><b>Read more...</b></a>
+							</div>
+
+					</div>
+					<div class="z1">
+							<div ><img class="main_12" src="img/gradient.jpg"></div>
+							<div>
+								<!--<img class="heightmax" src="img/gradient.jpg">-->
+								<h3>Recent Work 2</h3>
+								<p>hgjhfdfgjtjfdjtyjndjtyjtsrhj<br>
+								vvwvwervwcvzdafvacaecfacaceacac<br>
+								sfvwracqcqecqcqefqfqafqfqefqfqefqe<br>
+								</p>
+								<a href="#"><b>Read more...</b></a>
+							</div>
+					</div>
+					<div class="z1">
+							<div ><img class="main_12" src="img/blick.jpg"></div>
+							<div>
+								<!--<img class="heightmax" src="img/gradient.jpg">-->
+								<h3>Recent Work 2</h3>
+								<p>hgjhfdfgjtjfdjtyjndjtyjtsrhj<br>
+								vvwvwervwcvzdafvacaecfacaceacac<br>
+								sfvwracqcqecqcqefqfqafqfqefqfqefqe<br>
+								</p>
+								<a href="#"><b>Read more...</b></a>
+							</div>
+					</div>
+				</div>
+			</div>
+			<div class="main4">
+				<div>
+					<p>stnhhhhhhhhhhhhhhhhhhhhhghndhfrewrgafgwiflskGfwofhwo
+					</p>
+					<a href="#">brtrsbs</a>
+				</div>
+				<div>
+					<h3>More Tweets</h3>
+				</div>
+			</div>
+		</main>
+		<footer class="bakccolor1 textcolor1">
+			<div class="fooot1">
+				<div><p>Home</p></div> 
+				<div><p>About</p></div>
+				<div><p>Portfolio</p></div>
+				<div><p>Service</p></div>
+				<div><p>Blog</p></div>
+				<div><p>Contact</p></div>
+			</div>
+			<div>
+				<p>sbthssdfgeshgsdgrsthsh</p>
+			</div>
+		</footer>
+	</div>
+	</body>
+</html>
