@@ -1,0 +1,168 @@
+body {
+	padding: 0px;
+}
+
+
+main {
+	display: flex;
+	flex-direction: column;
+
+}
+.text {
+	display: flex;
+	flex-direction: column;
+	width: 30%;
+	text-align: center;
+}
+.contheader {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	background-color: #072527;
+
+}
+
+.contall {
+	display: flex;
+	flex-direction: column;
+	padding: 0px;
+}
+
+.border div{
+	padding: 10px;
+	/*border: 1px solid silver;*/
+}
+.cintmenu1{
+	display: flex;
+	justify-content: space-between;
+}
+
+.cintmenu2{
+	display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap;
+}
+
+.main1 {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	background-color: #072527;
+	height: 50%;
+	flex:1;
+}
+@media (min-width: 800px) {
+	.main1_1 {
+		width: 60%;
+	    background: url(img/main_1.png)no-repeat;
+	    background-size: 100% 100%;
+	    flex:2;
+	}
+}
+@media (min-width: 800px) {
+	.main2 {
+		display: flex;
+		flex-direction: row;
+		justify-content: space-around;
+		flex-wrap: wrap;
+		min-width: 30%;
+	}
+}
+@media (max-width: 800px) {
+	.main2 {
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+		min-width: 30%;	
+	}
+}
+/*.z1 {
+	display: flex;
+	height: 30%;
+	width: 30%;
+	flex-direction: column;
+	justify-content: center;
+}*/
+
+.bakccolor1 {
+	background-color: #072527;
+}
+
+.textcorowiht {
+	color: #ffffff;
+}
+
+.textcolor1 {
+	color: #227D6E;
+
+}
+
+.icon {
+	height: 50px;
+	width: auto;
+}
+
+.heightmax {
+	max-height: 300px;
+	min-height: 300px;
+}
+footer > div {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+
+footer {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	flex-wrap: wrap;
+}
+
+.main4{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	flex-wrap: wrap;
+}
+
+b {
+	border: 1px solid black;
+	border-radius: 10px 10px;
+	padding: 5px;
+}
+
+.fooot1 {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+}
+
+.main_11 {
+	/*background: url(img/forest.jpg)no-repeat;
+	background-size: 100% 100%;*/
+	max-width: 800px;
+	min-width: 150px;
+}
+.main_12 {
+	/*background: url(img/gradient.jpg)no-repeat;
+	background-size: 100% 100%;*/
+	max-width: 800px;
+	min-width: 150px;
+}
+.main_13 {
+	/*background: url(img/blick.jpg)no-repeat;
+	background-size: 100% 100%;*/
+	max-width: 800px;
+	min-width: 150px;
+}
+
+a {
+	text-decoration: none;
+	color: #6E6E6E;
+}
+
+p {
+	display: flex;
+	justify-content: center;
+}
